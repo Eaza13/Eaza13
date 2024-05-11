@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2> Hi, I'm Azjargal Enkhsaikhan!</h2>
 
-<!--
-**Eaza13/Eaza13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>You can just call me Aza. <br>Currently a CS student at <a href="https://www.ndhu.edu.tw/">Dong Hwa University</a>
+</em></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me  
+
+```javascript
+Aza = {
+  code: [C++, C, Python, HTML, CSS, JavaScript],
+  tools: [MySQL, MongoDB, angularJS],
+  hobbies: [gaming, basketball, manga]
+  }
